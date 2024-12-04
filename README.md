@@ -67,8 +67,7 @@ To run this project, the following Python libraries are required:
 Install them using:
 ```bash
 pip install torch torchvision pillow pandas scikit-learn
-
----
+```
 
 ## Code Description
 
